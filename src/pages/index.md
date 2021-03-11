@@ -17,7 +17,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: Streamlux Blog
-  description: The preview of the Ampersand theme
+  description: Tips and tricks to level up your stream and get more viewers.
   extra:
     - name: 'og:type'
       value: website
