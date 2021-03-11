@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "title": "Streamlux",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/download.svg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
